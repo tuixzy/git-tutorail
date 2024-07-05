@@ -1,2 +1,6 @@
-<?php echo "My repository" ?> 
-<?php echo "My Name is Tui" ?>
+<?php echo "My repository"; ?>
+<?php echo "Tui"; ?>
+
+<?php echo "Computer Engineering"; ?>
+<?php echo "My Mahanakorn"; ?> 
+
